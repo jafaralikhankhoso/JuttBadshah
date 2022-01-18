@@ -15,6 +15,7 @@
 <Jutt>How To Use</Badshah>
 <Jutt>Simply ! Type These Below Commands In Terminal </Badshah>
 <ul>
+<h1>installation</h1>
     <li>apt-get update</li>
     <li>apt-get upgrade</li>
     <li>apt install python2</li>
