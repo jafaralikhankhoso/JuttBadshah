@@ -26,12 +26,16 @@
     <li>git clone https://github.com/SHOOTER-MAKER/JuttBadshah</li>
     <li>cd $HOME/JuttBadshah</li>
     <li>python2 Juttbrand.py</li>
+<ul>
+    <h1>Usage</h1>
+    <li>cd $HOME/JuttBadshah</li>
+    <li>python2 Juttbrand.py</li>
 </ul>
 <h1>My Contact Links</h1>
 <p>Personal chat whatsapp</p>
 <p>https://wa.me/+923007574310</p>
 <p>WhatsApp Group Link</p>
-<p>
+<p>https://chat.whatsapp.com/D3Q3WpXWWbv4klHfVGZ4JK</p>
 </ul>
 <h1>Disclaimer</h1>
 <p>This Tool Is For Educational Purpose Only.Iam Not Responsible For Any Kind Of Lose By This Script.Use It On Your Own Risk</p>
