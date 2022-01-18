@@ -33,10 +33,8 @@
 <li>python2 Juttbrand.py</li>
 </ul>
 <h1>My Contact Links</h1>
-<p>Personal chat whatsapp</p>
-<p>https://bit.ly/3qANBWS</p>
-<p>WhatsApp Group Link</p>
-<p>https://chat.whatsapp.com/D3Q3WpXWWbv4klHfVGZ4JK</p>
+<p>Personal Chat Whatsapp <a href="https://bit.ly/3qANBWS" target="_blank">Click</a>.</p>
+<p>Whatsapp Group <a href="https://chat.whatsapp.com/D3Q3WpXWWbv4klHfVGZ4JK" target="_blank">Click</a>.</p>
 </ul>
 <h1>Disclaimer</h1>
 <p>This Tool Is For Educational Purpose Only.Iam Not Responsible For Any Kind Of Lose By This Script.Use It On Your Own Risk</p>
