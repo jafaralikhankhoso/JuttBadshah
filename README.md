@@ -26,10 +26,10 @@
     <li>git clone https://github.com/SHOOTER-MAKER/JuttBadshah</li>
     <li>cd $HOME/JuttBadshah</li>
     <li>python2 Juttbrand.py</li>
-<ul>
-    <h1>Usage</h1>
-    <li>cd $HOME/JuttBadshah</li>
-    <li>python2 Juttbrand.py</li>
+</ul>
+<h1>Usage</h1>
+<li>cd $HOME/JuttBadshah</li>
+<li>python2 Juttbrand.py</li>
 </ul>
 <h1>My Contact Links</h1>
 <p>Personal chat whatsapp</p>
