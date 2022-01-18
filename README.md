@@ -34,7 +34,7 @@
 </ul>
 <h1>My Contact Links</h1>
 <p>Personal chat whatsapp</p>
-<p>https://wa.me/+923007574310</p>
+<p>https://bit.ly/3qANBWS</p>
 <p>WhatsApp Group Link</p>
 <p>https://chat.whatsapp.com/D3Q3WpXWWbv4klHfVGZ4JK</p>
 </ul>
