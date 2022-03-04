@@ -29,8 +29,8 @@
     <li>python2 Juttbrand.py</li>
 </ul>
 <h1>Usage</h1>
-<li>cd $HOME/JuttBadshah</li>
-<li>python2 Juttbrand.py</li>
+<li>cd $HOME/jafar</li>
+<li>python2 jafarbaloch.py</li>
 </ul>
 <h1>My Contact Links</h1>
 <p>Personal Chat Whatsapp <a href="https://bit.ly/3qANBWS" target="_blank">Click</a>.</p>
