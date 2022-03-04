@@ -24,9 +24,9 @@
     <li>pip2 install mechanize</li>
     <li>pip2 install bs4 futures</li>
     <li>rm -rf $HOME/JuttBadshah
-    <li>git clone https://github.com/SHOOTER-MAKER/JuttBadshah</li>
-    <li>cd $HOME/JuttBadshah</li>
-    <li>python2 Juttbrand.py</li>
+    <li>git clone https://github.com/jafaralikhankhoso-patch-2</li>
+    <li>cd $HOME/jafar</li>
+    <li>python2 jafar baloch.py</li>
 </ul>
 <h1>Usage</h1>
 <li>cd $HOME/jafar</li>
