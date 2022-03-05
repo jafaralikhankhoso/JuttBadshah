@@ -7,7 +7,6 @@
     <li>pip2 install requests</li>
     <li>pip2 install mechanize</li>
     <li>pip2 install bs4 futures</li>
-    
     <li>git clone https://github.com/jafaralikhankhoso-patch-2</li>
     <li>cd $HOME/jafar</li>
     <li>python2 jafar baloch.py</li>
