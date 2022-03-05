@@ -1,20 +1,4 @@
-#Author Jutt Badshah Brand
 
-#THIS TOOL FOR FACEBOOK CLONING
-
-#THIS TOOL IS PAID NOT A FREE
-
-#THIS TOOL FILE CLONING AND RANDOM NUMBER CLONING
-
-
-
-<Jutt>AssalamuAlaikum</Badshah>
-<Jutt>This Is Jutt Badshah Here</Badshah>
-<Jutt>Description</Badshah>
-<Jutt>By this tool you can get successful facebook ids. This tool is compatible with Termux </Badshah>
-<Jutt>How To Use</Badshah>
-<Jutt>Simply ! Type These Below Commands In Terminal </Badshah>
-<ul>
 <h1>installation</h1>
     <li>apt-get update</li>
     <li>apt-get upgrade</li>
